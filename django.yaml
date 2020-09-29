@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: django
-        image: asia.gcr.io/gcp-akash-287109/django-test@sha256:241df1d61f53b3d85077edce83ac9046424c8ec537f202e0150950cda20f0014
+        image: asia.gcr.io/gcp-akash-287109/django-test@sha256:e9e1d4ef37b674c44bf9eeced2aebf54f1e2981322572c885791f6a2cba189ec
       imagePullSecrets:
       - name: registrypullsecret
