@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: django
-        image: asia.gcr.io/gcp-akash-287109/django-test:63a1d14-develop
+        image: asia.gcr.io/gcp-akash-287109/django-test:145e589-develop
       imagePullSecrets:
       - name: registrypullsecret
